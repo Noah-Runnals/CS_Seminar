@@ -1,3 +1,3 @@
 
 Intial Project Planning Phase:
-  Sorting alorthims and encrytion related scripts in python.
+  Sorting alorthims and encryption related scripts in python.
